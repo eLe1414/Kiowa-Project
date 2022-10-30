@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99f46b575bf29e34ab768d1c1c7e95db, type: 3}
+  m_Name: AllAssets
+  m_EditorClassIdentifier: 
+  SkinColor: []
+  bodies:
+  - {fileID: -4796307391871087195, guid: 029514eb706237b4e9e1b4202353016e, type: 3}
+  - {fileID: 2652837485561000861, guid: 06d39b734fb3e7d4e9263522edd2956f, type: 3}
+  hairs:
+  - {fileID: -4440440831564448668, guid: d9f4cc5b511c69e45a33a43fb5cdebae, type: 3}
+  - {fileID: 6508925036899223408, guid: e11e2d51cecffce449dc3dc60a0bc4f8, type: 3}
+  - {fileID: -1129318195239935678, guid: 3a19b56f4c19d254a89a285998d74b13, type: 3}
+  - {fileID: -6158218462860193660, guid: d8d2a58341a3c954c9380c522c6d0c44, type: 3}
+  facialHairs:
+  - {fileID: 0}
+  - {fileID: -2756977642617722940, guid: 1df721b27b28c494bbede0ac60ace7ed, type: 3}
+  - {fileID: 801061594918185726, guid: 5cf5b9dd13d43744688396343bbd09d1, type: 3}
+  - {fileID: 7767250351161055284, guid: d9204b7697c0c444a850310eaea2d787, type: 3}
+  clothes:
+  - {fileID: 2800000, guid: 90ff1e57b6a45b249b18b15063f59ed1, type: 3}
+  - {fileID: 2800000, guid: f6988d4c48256eb4f92edbea9d4ff62a, type: 3}
+  - {fileID: 2800000, guid: 66c24904b34b8c745a50dd74ac0998bf, type: 3}
+  - {fileID: 2800000, guid: 5991c60de5e61bd4e89a8bdd2c75ad57, type: 3}
+  - {fileID: 2800000, guid: 9ee0254cbb48a584b81cda3919570578, type: 3}
+  - {fileID: 2800000, guid: d88d1cc878183d04b8109742eefd9778, type: 3}
+  - {fileID: 2800000, guid: e5d88ad05182a2943968cfa12c5d6997, type: 3}
+  - {fileID: 2800000, guid: e09023e82703b2a49acd390c39ffbeba, type: 3}
+  accessories:
+  - {fileID: 0}
+  - {fileID: 3538712456934850711, guid: 153bbe8bd47df964686a1bf3c666d411, type: 3}
+  - {fileID: 8822302850692471015, guid: 26236175d75ea064385372493a40deeb, type: 3}
+  - {fileID: 294161248852073482, guid: f5d69996ce35a5a4da737ac0afafa896, type: 3}

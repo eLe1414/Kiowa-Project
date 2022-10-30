@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/OpenXR Plugin/1.4.2/Controller/Prefabs/RadialMenu_Hector.prefab.meta
+guid: 0b38f9f9fa64d1643afcb39bf9447d2f
+========
+guid: b6a26f020d44b1a4aa35cda05851aa22
+>>>>>>>> main:Assets/Samples/OpenXR Plugin/1.4.2/Controller/Prefabs/ControlRow.prefab.meta
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

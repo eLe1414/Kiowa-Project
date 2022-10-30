@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1684771788673566563
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1684771788673566562}
+  - component: {fileID: 1684771788673566565}
+  m_Layer: 5
+  m_Name: RadialMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1684771788673566562
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1684771788673566563}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1684771788673566565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1684771788673566563}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da06711c9ce6087408b7f11b48d759d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _radialMenuItems: []
+  _radialMenuItemPrefab: {fileID: 6575396903316332303, guid: 03a99cd1daa174349bcb8231a56a703b,
+    type: 3}
+  _radius: 300
+  _radialMenuItemIcons:
+  - {fileID: 2800000, guid: 9d5c46b0f25857b4aab575acb96f0ef7, type: 3}
+  - {fileID: 2800000, guid: 46bbbcb5fe299f243bebe6b887144a97, type: 3}
+  - {fileID: 2800000, guid: 8f9bbb71675fd1c4ab1f61fa143f941d, type: 3}
+  - {fileID: 2800000, guid: 4fb23d0ae1d38f744a78d4b6423b1f21, type: 3}
+  - {fileID: 2800000, guid: a1b4fa578d420f94898a32053eb30696, type: 3}
+  - {fileID: 2800000, guid: b500a60796a7fb749ba35aed2c72209a, type: 3}
+  - {fileID: 2800000, guid: d17421140b20f4149839fd083e8bfe66, type: 3}
+  - {fileID: 2800000, guid: 86b3ea02f3d39ee47b9556ddf75f4a92, type: 3}
+  - {fileID: 2800000, guid: 5e7b68b2f0192324b90d1416fea54d3a, type: 3}
+  - {fileID: 2800000, guid: e9779351c4389bc438cdb26805eefceb, type: 3}
+  _radialIconRawImage: {fileID: 0}
+  _endPosition: {x: 0, y: 0, z: 0}

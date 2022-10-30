@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3336967017089003733
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3336967017089003732}
+  - component: {fileID: 4816545730781147959}
+  m_Layer: 5
+  m_Name: RadialMenu_Hector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3336967017089003732
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336967017089003733}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4816545730781147959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3336967017089003733}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a8bcfcd636a634c93e477b6ce01a7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _radialMenuItems: []
+  _radialMenuItemPrefab: {fileID: 7451347964588582749, guid: 189142f7fccfc8c43b221291eb0dad8c,
+    type: 3}
+  _radius: 300
+  _radialMenuItemIcons:
+  - {fileID: 2800000, guid: e97dbf474ad08e04f87e381f53dbc3bb, type: 3}
+  - {fileID: 2800000, guid: 248647ae3dfc662418d620a4ae0ac6a3, type: 3}
+  - {fileID: 2800000, guid: 79afca148ab21044a9b40ea8b16cbeb1, type: 3}
+  - {fileID: 2800000, guid: 28f4ca72a6573174db2b701f1bed36b6, type: 3}
+  - {fileID: 2800000, guid: 73628b59a8f7ae24eb2343400e1ffcc5, type: 3}
+  - {fileID: 2800000, guid: 195495329ef757c4fb80d59ec565d64a, type: 3}
+  - {fileID: 2800000, guid: 53fd341cd1a1ec94089770ca8e9d7f04, type: 3}
+  - {fileID: 2800000, guid: f2829e7d81caf2d4cbba537cd1f9dfb7, type: 3}
+  _radialIconRawImage: {fileID: 0}
+  _endPosition: {x: 0, y: 0, z: 0}
+  emojiIcon: {fileID: 0}

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/VistitolBranch/_Scripts/UI/RadialMenuItem_Hector.cs.meta
+guid: 53050ddfefc99c34e8f7287ebeaf9822
+========
+guid: baa855c3a4997da4fbac69797d121f0f
+>>>>>>>> main:Assets/Angarcia/Scripts/AuthManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

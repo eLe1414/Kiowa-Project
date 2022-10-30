@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/HectorBranch.meta
+guid: dffb4234c8491f247b284befe2f63aab
+========
+guid: 8e7724fea4455e94e878c7aa86b12a22
+>>>>>>>> main:Assets/ExternalDependencyManager/Editor.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

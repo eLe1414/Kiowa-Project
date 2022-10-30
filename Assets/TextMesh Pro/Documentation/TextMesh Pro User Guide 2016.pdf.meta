@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+========
+<<<<<<<< HEAD:Assets/Scenes/SampleScene.unity.meta
+guid: d96e705cde327dc4fb094c7e07abf0ac
+========
+guid: fc0fe4a154474c24fb99a70cf7797798
+>>>>>>>> Himanshu_XR:Assets/MyAssets/MP_Assets/MP_Scenes/MP_SceneTest/MP_SceneTest.unity.meta
+>>>>>>>> main:Assets/Scenes/SampleScene.unity.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
